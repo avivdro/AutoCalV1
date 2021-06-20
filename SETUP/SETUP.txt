@@ -1,0 +1,2 @@
+database_file: databse.xlsx
+calendar_id: CalendarIDGoesHere@group.calendar.google.com
